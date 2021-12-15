@@ -25,6 +25,18 @@ div {
   display: block;
 }
 
+.navigation ul {
+  font-weight: 100;
+  letter-spacing: 2px;
+  padding: 20px;
+}
+
+.navigation li {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
 .container {
   border: black 1px solid;
   /*margin-top: 20px;
